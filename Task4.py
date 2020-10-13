@@ -1,4 +1,4 @@
-#Task4.1 Method
+#1 Method
 
 def my_func(var1, var2):
     res=x**y
@@ -6,12 +6,12 @@ def my_func(var1, var2):
 
 
 while True:
-    x = float(input("Type + variable "))
-    y = float(input("Type - variable "))
+    x = float(input("Type plus variable "))
+    y = float(input("Type minus variable "))
 
-    print(my_func(x, y))
+    print("Result of program:", my_func(x, y))
 
-#Task4.2 Method
+#2 Method
 
 def my_func(var1, var2):
     res = 1
@@ -22,7 +22,7 @@ def my_func(var1, var2):
     return res
 
 while True:
-    x=float(input("Type plus variable"))
-    y=float(input("Type minus variable"))
+    x=float(input("Type plus variable "))
+    y=float(input("Type minus variable "))
 
-    print(my_func(x, y))
+    print("Result of program:", my_func(x, y))

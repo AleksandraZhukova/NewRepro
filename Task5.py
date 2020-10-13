@@ -1,5 +1,3 @@
-#Task5
-
 def my_sum ():
     sum_res = 0
     ex = True

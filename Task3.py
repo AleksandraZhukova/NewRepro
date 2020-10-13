@@ -1,5 +1,3 @@
-#Task3
-
 def my_func(var1, var2, var3):
     a=[var1, var2, var3]
     res=sum(a)-min(a)

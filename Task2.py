@@ -1,5 +1,3 @@
-#Task2
-
 def presonal_dates(name, surname, year, city, email, phone_number):
     dates=(f"Ваши персональные данные: {name} {surname}, {year} {city} {email} {phone_number}.")
     return dates
