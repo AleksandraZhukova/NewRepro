@@ -1,4 +1,4 @@
-#Task4.1 Method
+#1 Method
 
 def my_func(var1, var2):
     res=x**y
@@ -11,7 +11,7 @@ while True:
 
     print(my_func(x, y))
 
-#Task4.2 Method
+#2 Method
 
 def my_func(var1, var2):
     res = 1

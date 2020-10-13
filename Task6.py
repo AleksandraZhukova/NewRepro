@@ -1,5 +1,3 @@
-#Task6
-
 def int_func(text):
     text=text.title()
     return text
