@@ -23,8 +23,3 @@ for line in file_name:
 print("Quality of lines in text:", lines)
 
 file_name.close()
-
-
-
-
-
